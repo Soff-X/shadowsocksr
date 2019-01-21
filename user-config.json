@@ -16,7 +16,7 @@
 
     "additional_ports" : {
     "443": {
-        "passwd": "sofvpn.top",
+        "passwd": "sofvpn.com",
         "method": "chacha20",
         "protocol": "auth_sha1_v4",
         "protocol_param": "#",
@@ -24,7 +24,7 @@
         "obfs_param": ""
     },
     "80": {
-        "passwd": "sofvpn.top",
+        "passwd": "sofvpn.com",
         "method": "chacha20",
         "protocol": "auth_sha1_v4",
         "protocol_param": "#",
